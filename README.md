@@ -10,6 +10,6 @@ Copy the .3dsx file to your device
 
 ## Compiling
 
-1. Open the homebrew app
+1. Open the homebrew launcher on your device
 2. Press 'Y' to activate 3dslink Netload
 3. Use [`cargo 3ds run`](https://github.com/rust3ds/cargo-3ds) to build, run, and upload to your device
