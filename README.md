@@ -6,8 +6,8 @@ Tap buttons or the screen to a beat to calculate a BPM. Press 'Start' to exit.
 
 ## Installation
 
-Copy the .3dsx file to your 3DS
-Run through the Homebrew launcher
+1. Copy the .3dsx file to your 3DS
+2. Run through the Homebrew launcher
 
 ## Compiling
 
